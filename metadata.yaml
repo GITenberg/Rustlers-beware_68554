@@ -1,0 +1,33 @@
+_repo: Rustlers-beware_68554
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chapman, Arthur
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '34949'
+    url: http://www.gutenberg.org/2009/agents/34949
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Chapman_(poet)
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68554'
+language: en
+pgterms:marc905: 20220708150739chapman
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :Street & Smith Corporation,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cattle stealing -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Gunfighters -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Western stories'
+- GITenberg
+title: Rustlers beware!
+url: http://www.gutenberg.org/ebooks/68554
